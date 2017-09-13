@@ -40,7 +40,7 @@ except EnvironmentError:
 
 setup(
     name="hca-filter",
-    description="Reporting for Studies in the Human Cell Atlas",
+    description="Filter gene cell matrices for Studies in the Human Cell Atlas",
     packages=["hcafilter"],
     namespace_packages=[],
     zip_safe=False,
